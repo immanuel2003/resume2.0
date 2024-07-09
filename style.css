@@ -1,0 +1,136 @@
+.css-selector {
+    background-color: #333333;
+}
+
+.h1myname {
+    font-family: 'Merriweather', serif;
+    font-size: 70px;
+    color: #cccccc;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+}
+
+.mypicture {
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.myself {
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: #cccccc;
+    text-align: left;
+}
+
+.work-status {
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: #cccccc;
+    text-align: center;
+}
+
+.h1academics {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 70px;
+    color: #cccccc;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0; 
+    margin: 0;
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: #cccccc; 
+}
+
+.h2academics {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #cccccc;
+}
+
+.h1skills {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 70px;
+    color: #cccccc;
+    word-spacing: 10px;
+    letter-spacing: 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.paragraph {
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: #cccccc;
+    width: 50%;
+    margin-left: 0%;
+}
+.webimage {
+    float: left;
+    margin-right: 20px;
+}
+.officeimage {
+    float: left;
+    margin-right: 20px;
+
+}
+
+.organizationalimage {
+    float: left;
+    margin-right: 20px;
+}
+
+.divskills {
+    margin-bottom: 60px;
+    margin-top: 30px;
+}
+
+.contact {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: #cccccc;
+    margin-top: 60px;
+}
+
+.bottom-container {
+    text-align: center;
+    background-color: #cccccc;
+}
+
+.footer-link {
+    color: #000000;
+}
+
+.github-link {
+    color: #000000;
+    margin-right: 20px;
+}
+
+.paragraph-skills {
+    font-size: 25px;
+    font-family: 'Lora', serif;
+    color: #cccccc;
+}
+
+.web-devskills {
+    margin-bottom: 60px;
+}
+
+.office-skills {
+    margin-bottom: 60px;
+}
