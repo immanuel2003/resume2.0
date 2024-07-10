@@ -1,5 +1,6 @@
 .css-selector {
-    background-color: #07232c;
+    background: rgb(10,195,190);
+    background: linear-gradient(77deg, rgba(10,195,190,1) 0%, rgba(11,83,143,1) 46%, rgba(11,48,128,0.4599089635854342) 100%);
 }
 
 .h1myname {
