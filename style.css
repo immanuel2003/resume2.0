@@ -1,14 +1,13 @@
 .css-selector {
-    background: rgb(10,195,190);
-    background: linear-gradient(77deg, rgba(10,195,190,1) 0%, rgba(11,83,143,1) 46%, rgba(11,48,128,0.4599089635854342) 100%);
+    background: whitesmoke;
 }
 
 .h1myname {
-    font-family: 'Merriweather', serif;
+    font-family: Nunito sans;
     font-size: 70px;
-    color: #cccccc;
-    word-spacing: 10px;
-    letter-spacing: 10px;
+    color: rgba(2, 71, 2, 0.786);
+    word-spacing:10px;
+    letter-spacing: 4px;
 }
 
 .mypicture {
@@ -18,25 +17,25 @@
 
 .myself {
     font-size: 25px;
-    font-family: 'Lora', serif;
-    color: #cccccc;
+    font-family: Nunito;
+    color: rgba(2, 71, 2, 0.786);
     text-align: left;
 }
 
 .work-status {
     font-size: 25px;
-    font-family: 'Lora', serif;
-    color: #cccccc;
+    font-family: Nunito;
+    color: rgba(2, 71, 2, 0.786);
     text-align: center;
 }
 
 .h1academics {
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: Nunito sans;
     font-size: 70px;
-    color: #cccccc;
+    color: rgba(2, 71, 2, 0.786);
     word-spacing: 10px;
-    letter-spacing: 10px;
+    letter-spacing: 4px;
 }
 
 .list {
@@ -50,24 +49,24 @@ ul {
     padding: 0; 
     margin: 0;
     font-size: 25px;
-    font-family: 'Lora', serif;
-    color: #cccccc; 
+    font-family: Nunito;
+    color: rgba(2, 71, 2, 0.786); 
 }
 
 .h2academics {
     font-size: 50px;
     text-align: center;
-    font-family: 'Merriweather', serif;
-    color: #cccccc;
+    font-family: Nunito sans;
+    color: rgba(2, 71, 2, 0.786);
 }
 
 .h1skills {
     text-align: center;
-    font-family: 'Merriweather', serif;
+    font-family: Nunito sans;
     font-size: 70px;
-    color: #cccccc;
+    color: rgba(2, 71, 2, 0.786);
     word-spacing: 10px;
-    letter-spacing: 10px;
+    letter-spacing: 4px;
     margin-top: 30px;
     margin-bottom: 40px;
 }
@@ -75,8 +74,8 @@ ul {
 .paragraph {
     text-align: left;
     font-size: 25px;
-    font-family: 'Lora', serif;
-    color: #cccccc;
+    font-family: Nunito;
+    color: rgba(2, 71, 2, 0.786);
     width: 50%;
     margin-left: 0%;
 }
@@ -103,14 +102,14 @@ ul {
 .contact {
     text-align: center;
     font-size: 25px;
-    font-family: 'Lora', serif;
-    color: #cccccc;
+    font-family: Nunito;
+    color: rgba(2, 71, 2, 0.786);
     margin-top: 60px;
 }
 
 .bottom-container {
     text-align: center;
-    background-color: #cccccc;
+    background-color: whitesmoke;
 }
 
 .footer-link {
@@ -124,8 +123,8 @@ ul {
 
 .paragraph-skills {
     font-size: 25px;
-    font-family: 'Lora', serif;
-    color: #cccccc;
+    font-family: Nunito;
+    color: rgba(2, 71, 2, 0.786);
 }
 
 .web-devskills {
@@ -135,3 +134,5 @@ ul {
 .office-skills {
     margin-bottom: 60px;
 }
+
+
